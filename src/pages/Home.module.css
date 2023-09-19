@@ -1,0 +1,11 @@
+.photoOne {
+  height: 250px;
+  width: 275px;
+  border-radius: 20px;
+}
+
+.photoTwo {
+  height: 500px;
+  width: 275px;
+  border-radius: 20px;
+}

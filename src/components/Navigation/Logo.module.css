@@ -1,0 +1,25 @@
+.logo {
+  flex: 3.5;
+  display: flex;
+  align-items: center;
+  margin-left: 5rem;
+}
+
+.logoImageContainer {
+  display: flex;
+  align-items: center;
+  width: 22.5%;
+  height: auto;
+}
+
+.logoImage {
+  border-radius: 50%;
+}
+
+.logoName {
+  margin-left: 1rem;
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-size: 35px;
+  color: var(--orange);
+}

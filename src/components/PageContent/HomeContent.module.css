@@ -1,0 +1,22 @@
+.home {
+  justify-content: center;
+  align-items: center;
+}
+
+.homeContent {
+  width: 80%;
+  height: 90%;
+}
+
+.text::first-letter {
+  text-transform: lowercase;
+}
+
+.image {
+  width: 90%;
+  height: 90%;
+}
+
+.page {
+  border-radius: 50%;
+}

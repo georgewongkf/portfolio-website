@@ -1,0 +1,26 @@
+.experience {
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.experienceContent {
+  flex-grow: 0;
+  flex-shrink: 1;
+  width: 80%;
+  height: 45%;
+}
+
+.section {
+  width: 576px;
+}
+
+.imageOne {
+  width: 50%;
+  height: auto;
+}
+
+.imageTwo {
+  width: 65%;
+  height: auto;
+}

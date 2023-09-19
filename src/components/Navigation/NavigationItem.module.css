@@ -1,0 +1,27 @@
+.navigationItem {
+  flex: 0 1 5rem;
+  display: flex;
+  justify-content: space-evenly;
+  padding: 0.5rem;
+}
+
+.navigationItem a {
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-size: 1.5rem;
+  text-decoration: none;
+  color: var(--black);
+  padding: 0.5rem;
+  margin-left: 0.5rem;
+}
+
+.navigationItem a.active {
+  text-decoration: none;
+  color: var(--orange);
+}
+
+.navigationItem a:hover {
+  background-color: var(--white);
+  border-radius: 15px;
+  cursor: pointer;
+}

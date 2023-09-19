@@ -1,0 +1,26 @@
+.contact {
+  justify-content: center;
+  align-items: center;
+}
+
+.contactContent {
+  width: 80%;
+  height: 90%;
+}
+
+.section {
+  width: 576px;
+}
+
+.text::first-letter {
+  text-transform: none;
+}
+
+.image {
+  width: 90%;
+  height: 90%;
+}
+
+.page {
+  border-radius: 50%;
+}

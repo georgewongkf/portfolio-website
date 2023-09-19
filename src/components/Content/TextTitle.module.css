@@ -1,0 +1,10 @@
+.textTitle {
+  font-family: "Rubik", sans-serif;
+  font-weight: 600;
+  font-size: 0.9rem;
+  color: var(--orange);
+}
+
+.textTitle {
+  text-transform: capitalize;
+}
