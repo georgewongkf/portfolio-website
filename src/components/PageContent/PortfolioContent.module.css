@@ -25,3 +25,9 @@
 .text::first-letter {
   text-transform: lowercase;
 }
+
+@media (max-width: 1376px) {
+  .portfolioContent {
+    width: 25rem;
+  }
+}

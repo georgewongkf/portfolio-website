@@ -4,3 +4,9 @@
   align-items: center;
   border-bottom: 2px solid var(--orange);
 }
+
+@media (max-width: 1000px) {
+  .navigation {
+    flex-direction: column;
+  }
+}

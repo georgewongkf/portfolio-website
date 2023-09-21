@@ -7,3 +7,9 @@
 .textDetail::first-letter {
   text-transform: capitalize;
 }
+
+@media (max-width: 1376px) {
+  .textDetail {
+    font-size: 0.88rem;
+  }
+}

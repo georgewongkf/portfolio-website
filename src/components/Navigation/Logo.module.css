@@ -23,3 +23,12 @@
   font-size: 35px;
   color: var(--orange);
 }
+
+@media (max-width: 1000px) {
+  .logoImageContainer {
+    width: 18%;
+  }
+  .logoName {
+    font-size: 25px;
+  }
+}

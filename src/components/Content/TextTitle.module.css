@@ -8,3 +8,9 @@
 .textTitle {
   text-transform: capitalize;
 }
+
+@media (max-width: 1376px) {
+  .textTitle {
+    font-size: 0.7rem;
+  }
+}
