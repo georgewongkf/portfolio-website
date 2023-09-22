@@ -35,10 +35,9 @@ const PortfolioContent = () => {
             </a>
           </TextDetail>
           <TextTitle>features:</TextTitle>
-          <TextDetail>single-page application (SPA)</TextDetail>
+          <TextDetail>Responsive Design, Single-Page Application</TextDetail>
           <TextTitle>technologies applied:</TextTitle>
-          <TextDetail>CSS Flexbox, React ecosystem (React.js</TextDetail>
-          <TextDetail textStyle={styles.text}>and React Router)</TextDetail>
+          <TextDetail>React ecosystem (React.js and React Router)</TextDetail>
         </TextSection>
       </Content>
       <Content pageStyle={styles.portfolioContent}>
@@ -67,8 +66,9 @@ const PortfolioContent = () => {
           <TextTitle>features:</TextTitle>
           <TextDetail>Authentication, Content Management</TextDetail>
           <TextTitle>technologies applied:</TextTitle>
-          <TextDetail>CSS Flexbox, CSS Grid, React ecosystem</TextDetail>
-          <TextDetail>(React.js, React Router and React Redux)</TextDetail>
+          <TextDetail>
+            React ecosystem (React.js, React Router and React Redux)
+          </TextDetail>
         </TextSection>
       </Content>
     </ContentContainer>
