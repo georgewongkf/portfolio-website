@@ -15,9 +15,7 @@ const ExperienceContent = () => {
       <Content pageStyle={styles.experienceContent}>
         <TextSection sectionStyle={styles.section}>
           <TextTitle>work experience</TextTitle>
-          <TextDetail>
-            Hong Kong Cyberport Management Company Limited
-          </TextDetail>
+          <TextDetail>Hong Kong Cyberport Management Co Ltd</TextDetail>
           <TextDetail>from January 2021 to January 2022</TextDetail>
           <TextDetail>worked as a full-time Project Executive</TextDetail>
           <TextDetail>under ICT Operation Team</TextDetail>

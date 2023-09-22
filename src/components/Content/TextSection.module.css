@@ -1,4 +1,9 @@
+.section {
+  max-width: 100%;
+}
+
 .textSection {
+  max-width: 100%;
   flex: 1;
   margin-left: 1rem;
   padding: 0;

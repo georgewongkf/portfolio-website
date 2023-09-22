@@ -2,7 +2,7 @@
   flex: 3.5;
   display: flex;
   align-items: center;
-  margin-left: 5rem;
+  margin-left: 2.5rem;
 }
 
 .logoImageContainer {
@@ -26,7 +26,7 @@
 
 @media (max-width: 1000px) {
   .logoImageContainer {
-    width: 18%;
+    width: 15%;
   }
   .logoName {
     font-size: 25px;

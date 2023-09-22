@@ -77,14 +77,10 @@ const SkillsContent = () => {
       <Content pageStyle={styles.skillsContent}>
         <TextSection sectionStyle={styles.section}>
           <TextTitle>language</TextTitle>
-          <TextDetail>
-            written and spoken English, written and spoken Chinese
-          </TextDetail>
+          <TextDetail>English and Chinese (written and spoken) </TextDetail>
           <TextTitle>computer literacy</TextTitle>
           <TextDetail>Microsoft Office (Word, PowerPoint and Excel)</TextDetail>
-          <TextDetail>
-            English typing (70 wpm) and Chinese typing (45 wpm)
-          </TextDetail>
+          <TextDetail>English typing and Chinese typing</TextDetail>
         </TextSection>
         <ImageSection sectionStyle={styles.imageSection}>
           <Image

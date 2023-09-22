@@ -12,7 +12,7 @@
   text-decoration: none;
   color: var(--black);
   padding: 0.5rem;
-  margin-left: 0.5rem;
+  margin-left: 0.25rem;
 }
 
 .navigationItem a.active {
@@ -29,5 +29,8 @@
 @media (max-width: 1342px) {
   .navigationItem {
     padding: 0;
+  }
+  .navigationItem a {
+    font-size: 1.25rem;
   }
 }

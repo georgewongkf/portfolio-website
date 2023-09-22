@@ -3,7 +3,7 @@ import styles from "./TextDetail.module.css";
 const TextDetail = ({ textStyle, children }) => {
   return (
     <li className={styles.textDetail}>
-      <p className={textStyle}>{children}</p>
+      <p className={`${styles.text} ${textStyle}`}>{children}</p>
     </li>
   );
 };
